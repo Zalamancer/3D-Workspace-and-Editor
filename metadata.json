@@ -1,0 +1,5 @@
+{
+  "name": "3D Workspace and Animator",
+  "description": "A high-performance web-based 3D editor featuring a glass-morphic UI, asset management, and cinematic camera controls.",
+  "requestFramePermissions": []
+}
